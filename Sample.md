@@ -23,6 +23,9 @@ After you create a method, on the home page, you can view it in Browse all metho
 
 To create a new processing method in the QUAN Review application:
 1. On the QUAN Review home page, click Create new method.
+
+![QUAN home page](C:\Users\ukavel\OneDrive - Waters Corporation\WORK\Argonaut\IVD\Familiarization guide\Images)
+
 2. Specify a method name and a description (optional).
 3. Select the folder or create a new folder in which to save your method.
 4. Click Save.
