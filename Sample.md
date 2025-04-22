@@ -11,7 +11,7 @@ You can create a processing method in the QUAN Review application in any of the 
 - Using an embedded method
 - Importing a method from TargetLynx XS
 
-After you create a method, on the home page, you can view it in Browse all methods.
+After you create a method, on the home page, you can view it on the "Browse all methods" page.
 
 **See also:**
 - Browsing methods
